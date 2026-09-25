@@ -1,0 +1,24 @@
+{
+  "source_url": "https://api.tvmaze.com/shows?page=0",
+  "records_processed": 240,
+  "unique_languages": 2,
+  "collection_types_used": [
+    "list",
+    "dictionary",
+    "set",
+    "tuple"
+  ],
+  "shows_by_genre": {
+    "Comedy": 1
+  },
+  "average_rating_by_language": {
+    "English": 7.58,
+    "Japanese": 7.88
+  },
+  "shows_by_decade": {
+    "2010s": 179,
+    "2000s": 51,
+    "1990s": 8,
+    "1980s": 2
+  }
+}
